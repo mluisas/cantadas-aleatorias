@@ -1,7 +1,7 @@
 {
-  "name": "clone-tabnews",
+  "name": "cantadas-aleatorias",
   "version": "1.0.0",
-  "description": "Implementação do https://tabnews.com.br para o https://curso.dev",
+  "description": "Pra você que quer alegrar o dia daquela pessoa especial ou apenas aprender novas cantadas",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
